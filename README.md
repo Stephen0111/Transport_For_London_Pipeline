@@ -15,7 +15,7 @@ The pipeline is built using a **modern Lakehouse architecture** on **Databricks*
 ---
 
 ## Architecture Overview
-![TfL Architecture](Assets/tfl_architecture.png)
+![TfL Architecture](Assets/Databricks.png)
 
 
 ---
