@@ -174,7 +174,7 @@ This project demonstrates how modern data engineering can support:
 
 ---
 
-## Why This Project Matters
+##  Project Outcomes
 
 This repository showcases:
 - **Streaming + batch hybrid architecture**
