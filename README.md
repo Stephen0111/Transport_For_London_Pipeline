@@ -24,7 +24,7 @@ The pipeline is built using a **modern Lakehouse architecture** on **Databricks*
 
 ### Real-Time Transport Data Ingestion
 - **Live streaming ingestion** of:
-  - Tube & bus arrival predictions
+  - Tube & bus arrival 
   - Service disruption events
 - Implemented using **PySpark Structured Streaming**
 - Handles:
